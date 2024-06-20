@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shreyas Dole
-- 👀 I’m interested in Sports 
 - 🌱 I’m currently learning Programming and AI & ML
 - 💞️ I’m looking to collaborate on Real World Project
 - 📫 How to reach me Mail me @ doleshreyas117@gmail.com
